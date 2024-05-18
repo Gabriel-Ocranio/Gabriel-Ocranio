@@ -15,4 +15,6 @@
     <img align="center" alt=".NET" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     <img align="center" alt="MySql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="SqlServer" src = "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-</div>
+</div></br>
+
+Sou estudante de Sistemas de Informação na UFRPE, entusiasta de tecnologia e inovação. Acredito veementemente que é possível impactar de maneira positiva a vida das pessoas através do uso da programação.
