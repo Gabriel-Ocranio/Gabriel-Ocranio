@@ -22,4 +22,4 @@
 
 </div></br>
 
-Sou estudante de Sistemas de Informação na UFRPE, entusiasta de tecnologia e inovação. Acredito veementemente que é possível impactar de maneira positiva a vida das pessoas através do uso da programação.
+Estudante de Sistemas de Informação (UFRPE) com foco em automação, integrações e IA. Acredito que a tecnologia é a ferramenta mais poderosa para inovar e gerar impacto positivo, e estou aqui para construir essas soluções.
